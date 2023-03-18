@@ -29,7 +29,7 @@ E ( S ) = c ∑ i = 1 − p i ( l o g 2 p i )
 
 where,p, denotes the probability of entropy and E(S) denotes the entropy.
 
-###Information Gain formula
+### Information Gain formula
 
 Information Gain formula = 1 – Entropy
 
